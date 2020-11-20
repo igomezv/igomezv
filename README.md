@@ -2,7 +2,7 @@
 
 I am Isidro and the following link contains irrelevant info about me: 
 
-- https://igomezv.github.io/aboutme_eng
+- https://igomezv.github.io
 
 
 
