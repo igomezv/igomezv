@@ -1,6 +1,6 @@
 ### Hello world, 
 
-I am Isidro and the following link contains irrelevant info about me: 
+The following link contains irrelevant info about me: 
 
 - https://igomezv.github.io
 
