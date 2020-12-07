@@ -1,8 +1,6 @@
-### Hello world, 
+### Hello world ...
 
-The following link contains irrelevant info about me: 
 
-- https://igomezv.github.io
 
 
 
