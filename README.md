@@ -1,8 +1,7 @@
 ### Hello world ...
 
 
-
-
+I am a writer, physicist, and data scientist with a particular interest in Bayesian inference, artificial neural networks, and Dark Energy cosmological models.
 
 <!--
 **igomezv/igomezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
