@@ -1,6 +1,3 @@
-### Hello world ...
-
-
 Writer, physicist and data scientist.
 
 Interests: Bayesian inference, artificial neural networks and Dark Energy cosmological models.
