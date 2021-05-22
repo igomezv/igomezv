@@ -2,6 +2,8 @@ Writer, physicist and data scientist.
 
 Interests: Bayesian inference, artificial neural networks and Dark Energy cosmological models.
 
+More info: https://igomezv.github.io/
+
 Note:
 Currently, most of my repositories are quite messy; however, I will soon (no matter when you read this) clean them up to make them readable to the curious code reader.
 
