@@ -5,8 +5,6 @@ Interests: Bayesian inference, artificial neural networks and Dark Energy cosmol
 Note:
 Currently, most of my repositories are quite messy; however, I will soon (no matter when you read this) clean them up to make them readable to the curious code reader.
 
-More info about me: https://igomezv.github.io/aboutme/
-
 <!--
 **igomezv/igomezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
