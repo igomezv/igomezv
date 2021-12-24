@@ -15,10 +15,9 @@ Currently, most of my repositories are quite messy; however, I will soon (no mat
 
 
 
-javascript:!function(){if(title=document.title,title)if(thing=title.split(/(GitHub\s-\s)*([^:]*)/)[2],thing){var t="https://igomezv.github.io/crann/index.html#"+thing;window.open(t)}else window.alert("Not%20a%20valid%20GitHub%20page")}();
 
-<a href="https://github.com/igomezv/active-forks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igomezv&repo=active-forks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/igomezv/crann">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igomezv&repo=crann&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;
 
 <!--
