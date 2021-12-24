@@ -13,6 +13,10 @@ Currently, most of my repositories are quite messy; however, I will soon (no mat
 
 <!-- [![Isidro's github stats](https://github-readme-stats.vercel.app/api?username=igomezv&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<a href="https://github.com/igomezv/active-forks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igomezv&repo=active-forks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;
+
 <!--
 **igomezv/igomezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
