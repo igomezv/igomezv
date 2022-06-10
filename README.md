@@ -1,4 +1,4 @@
-Writer, physicist and data scientist.
+Physicist, data scientist and writer.
 
 Research interests: Bayesian inference, artificial neural networks and cosmological models of Dark Energy.
 
