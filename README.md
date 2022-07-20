@@ -1,6 +1,6 @@
-Physicist,data scientist and writer.
+Physicist, data scientist and writer.
 
-Research interests: Bayesian inference, artificial neural networks and cosmological models of Dark Energy.
+Research interests: Bayesian inference, artificial neural networks, machine learning and cosmological models of Dark Energy.
 
 Note:
 Currently, most of my repositories are quite messy; however, I will soon (no matter when you read this) clean them up to make them readable to the curious code reader.
