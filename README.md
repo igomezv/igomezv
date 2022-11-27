@@ -1,4 +1,4 @@
-Computational physicist and writer. Currently working as a postdoctoral researcher at UNAM.
+Computational physicist and writer. Currently working as postdoctoral researcher at UNAM.
 
 Research interests: Bayesian inference, artificial neural networks, machine learning and cosmological models of Dark Energy.
 
