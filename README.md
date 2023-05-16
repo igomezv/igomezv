@@ -2,7 +2,7 @@
  -->
 Research interests: Bayesian inference, artificial neural networks, machine learning and cosmological models of Dark Energy.
 
-Visit my [website](https://igomezv.github.io) for more info about me.
+Please, visit my [website](https://igomezv.github.io) for more info about me.
 
 <!-- Note:
 Currently, most of my repositories are quite messy; however, I will soon (no matter when you read this) clean them up to make them readable to the curious code reader. -->
