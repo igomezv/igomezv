@@ -1,6 +1,6 @@
-<!-- Computational physicist and writer. Currently working as postdoctoral researcher at UNAM.
- -->
-Research interests: Bayesian inference, artificial neural networks, machine learning and cosmological models of Dark Energy.
+<!-- Computational physicist and writer. 
+
+Research interests: Bayesian inference, artificial neural networks, machine learning and astrophysics/cosmology.
 
 Please, visit my [website](https://igomezv.github.io) for more info about me.
 
