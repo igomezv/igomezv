@@ -1,4 +1,4 @@
-<!-- Computational physicist and writer. 
+<!-- Computational physicist and writer. -->
 
 Research interests: Bayesian inference, artificial neural networks, machine learning and astrophysics/cosmology.
 
