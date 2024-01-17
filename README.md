@@ -10,7 +10,7 @@ Currently, most of my repositories are quite messy; however, I will soon (no mat
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igomezv&theme=dark" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igomezv&theme=dark" />
 </p>
 
 
