@@ -1,14 +1,11 @@
 <!-- Computational physicist and writer. -->
 
-Research interests: Bayesian inference, artificial neural networks, machine learning and astrophysics/cosmology.
-
-<!-- Note:
-Currently, most of my repositories are quite messy; however, I will soon (no matter when you read this) clean them up to make them readable to the curious code reader. -->
+Research interests: Bayesian inference, artificial neural networks, machine learning, and astrophysics/cosmology.
 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igomezv&theme=dark" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igomezv&theme=dark" />
 </p>
 
 
