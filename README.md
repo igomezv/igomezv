@@ -2,6 +2,7 @@
 
 Research interests: Bayesian inference, artificial neural networks, machine learning, and astrophysics/cosmology.
 
+https://igomezv.github.io
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
