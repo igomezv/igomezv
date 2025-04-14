@@ -1,6 +1,6 @@
 <!-- Computational physicist and writer. -->
 
-Research interests: Bayesian inference, artificial neural networks, machine learning, and astrophysics/cosmology.
+Research interests: Bayesian inference, artificial neural networks, and machine learning applied to astrophysical data.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
