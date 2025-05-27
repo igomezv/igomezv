@@ -3,10 +3,8 @@
 Research interests: Bayesian inference, artificial neural networks, and machine learning applied to astrophysical data.
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark" />
 </p>
-
-
 
 
 
