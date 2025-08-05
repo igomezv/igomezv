@@ -5,7 +5,9 @@ Research interests: Bayesian inference, artificial neural networks, and machine 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igomezv&theme=dark&layout=compact)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igomezv&theme=default)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igomezv&theme=default" width="600"/>
+</p>
 
 
 
