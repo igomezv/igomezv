@@ -1,8 +1,5 @@
-<!-- Computational physicist and writer. -->
+Research interests: Bayesian inference, deep learning, and statistical methods for astrophysical data analysis, with applications to cosmology, exoplanets, and stellar activity.
 
-Research interests: Bayesian inference, artificial neural networks, and machine learning applied to astrophysical data.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igomezv&show_icons=true&theme=dark)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igomezv&theme=default)
 
